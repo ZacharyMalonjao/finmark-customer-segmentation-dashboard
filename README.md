@@ -290,25 +290,14 @@ They represent a potentially vulnerable customer group and may benefit from targ
 
 # Project Structure
 
-```text
-finmark-customer-segmentation/
-│
-├── data/
-│   └── ...
-│
-├── notebooks/
-│   └── customer_segmentation.ipynb
-│
-├── tableau/
-│   └── ...
-│
-├── outputs/
-│   └── tableau_dataset.csv
-│
-├── README.md
-└── ...
-```
+## File Structure
 
+```
+finmark-data-mining/
+├── Datasets/                                      # Raw and/or cleaned data files used in analysis
+├── finmark_customer_segmentation_dashboard.ipynb  # Main analysis notebook (Colab)
+└── README.md                                      # Project overview and documentation
+```
 ---
 
 # Deliverables
@@ -348,7 +337,7 @@ These segments provide a framework for Finmark to think differently about custom
 
 ## Author
 
-**Zach Malonjao**
+**David Zachary Malonjao**
 
 IT Student | Data Analytics & Business Intelligence
 
