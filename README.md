@@ -80,7 +80,7 @@ The dashboard is designed to answer three questions:
 
 > **What should Finmark do about it?**
 
-**[View the Tableau Dashboard](#)**
+**[View the Tableau Dashboard](https://public.tableau.com/app/profile/david.zachary.malonjao/viz/dataminingdashboard/Dashboard1?publish=yes)**
 
 ---
 
