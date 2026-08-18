@@ -59,7 +59,17 @@ Customers with low activity may benefit from targeted campaigns, personalized of
 Customers who are both inactive and dissatisfied represent the greatest potential disengagement risk. Finmark could prioritize this group for targeted retention or reactivation efforts.
 
 ---
+# Dataset & Disclaimer
 
+This project uses a synthetic customer transaction dataset provided as part of an academic data mining project by Mapúa Malayan Digital College (MMDC).
+
+The original dataset is hosted on the MMDC FinMark Corp project site and is restricted to users within the MMDC organization. Because the source is access-restricted, the original dataset is not redistributed in this repository, only the downloaded forms of it.
+
+The dataset is synthetic and does not represent actual FinMark Corp customers or transactions. Therefore, the findings in this project should be interpreted as an analytical demonstration rather than real-world business results.
+
+The purpose of the project is to demonstrate the application of customer segmentation, data preprocessing, dimensionality reduction, clustering, and dashboard-based business storytelling.
+
+---
 # Dashboard
 
 The final Tableau dashboard presents the segmentation in a non-technical format, allowing users to explore:
