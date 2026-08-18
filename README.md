@@ -305,6 +305,11 @@ They represent a potentially vulnerable customer group and may benefit from targ
 ```
 finmark-data-mining/
 ├── Datasets/                                      # Raw and/or cleaned data files used in analysis
+  ├── Customer_Feedback_Data                       #Raw FinMark dataset
+  ├── Product_Offering_Data                        #Raw FinMark dataset
+  ├── Transaction_Data                             #Raw FinMark dataset
+  ├── machine_learning_data                        #Transformed dataset used in machine learning
+  ├── tableau_data                                 #Transformed dataset used for visualization
 ├── finmark_customer_segmentation_dashboard.ipynb  # Main analysis notebook (Colab)
 └── README.md                                      # Project overview and documentation
 ```
